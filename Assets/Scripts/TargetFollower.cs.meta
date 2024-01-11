@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5d1cb945babe19147b10d872806aa287
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234476
+  packageName: Stack Runner 3D
+  packageVersion: 1.0.0
+  assetPath: Assets/SAYDON/Stack Runner 3D/Scripts/TargetFollower.cs
+  uploadId: 536056

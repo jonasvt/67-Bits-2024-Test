@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e9c439eb3a663a84dba3730dee2bf2e7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234476
+  packageName: Stack Runner 3D
+  packageVersion: 1.0.0
+  assetPath: Assets/SAYDON/Stack Runner 3D/Scripts/Player.cs
+  uploadId: 536056
